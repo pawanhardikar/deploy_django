@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+env/
+
+# Django-specific files
+*.log
+*.pot
+*.sqlite3
+local_settings.py
+db.sqlite3
+
+# Editor/IDE-specific files (if applicable)
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Docker-related
+*.dockerignore
+
+# Temporary files
+*~
+\#*\#
